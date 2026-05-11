@@ -54,3 +54,11 @@ https://drive.google.com/file/d/1-Jsj9GzofWpZ0RcL6SUIEiTlPOrTpIPh/view?usp=shari
 - **Australia** offers strong **expansion opportunities**.
 - **Q3 performance decline** should be investigated further.
 - **Year-end promotional campaigns** can capitalize on **December sales growth**.
+
+
+---
+<img width="1315" height="742" alt="analysis page" src="https://github.com/user-attachments/assets/01906dd5-1655-45bf-a422-3f4217f86371" />
+
+---
+<img width="1316" height="740" alt="overview page" src="https://github.com/user-attachments/assets/c83fa2c6-e89d-4e00-8f88-9ca46e926b8d" />
+
