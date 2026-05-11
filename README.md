@@ -42,9 +42,9 @@ https://drive.google.com/file/d/1-Jsj9GzofWpZ0RcL6SUIEiTlPOrTpIPh/view?usp=shari
 
 ## Quarterly Performance Insights
 
-- Q2 recorded the highest order quantity among all quarters.
-- Q3 had the lowest order volume, indicating a seasonal slowdown.
-- Q4 showed recovery after the Q3 decline.
+- Q2 recorded the highest order quantity with approximately 182K orders.
+- Q3 had the lowest order volume with around 128K orders, indicating a seasonal slowdown.
+- Q4 recovered strongly with nearly 150K orders after the Q3 decline.
 
 ---
 
